@@ -1,0 +1,40 @@
+Credit to Kryptus
+
+_SET_NOTIFICATION_TEXT_ENTRY("STRING");
+_ADD_TEXT_COMPONENT_STRING("Grand Theft Auto V Mods.");
+_SET_NOTIFICATION_MESSAGE_CLAN_TAG_2("CHAR_SOCIAL_CLUB", "CHAR_SOCIAL_CLUB", 1, 7, "~b~ISOFX", "~c~Subject", 1, "___DEV", 8);
+_DRAW_NOTIFICATION(false, false);
+
+-------------------------------------
+
+CHAR_DEFAULT : Default profile pic
+CHAR_FACEBOOK : Facebook
+CHAR_SOCIAL_CLUB : Social Club Star
+CHAR_CARSITE2 : Super Auto San Andreas Car Site
+CHAR_BOATSITE : Boat Site Anchor
+CHAR_BANK_MAZE : Maze Bank Logo
+CHAR_BANK_FLEECA : Fleeca Bank
+CHAR_BANK_BOL : Bank Bell Icon
+CHAR_MINOTAUR : Minotaur Icon
+CHAR_EPSILON : Epsilon E
+CHAR_MILSITE : Warstock W
+CHAR_CARSITE : Legendary Motorsports Icon
+CHAR_DR_FRIEDLANDER : Dr Freidlander Face
+CHAR_BIKESITE : P&M Logo
+CHAR_LIFEINVADER : Liveinvader
+CHAR_PLANESITE : Plane Site E
+CHAR_MICHAEL : Michael's Face
+CHAR_FRANKLIN : Franklin's Face
+CHAR_TREVOR : Trevor's Face
+CHAR_SIMEON : Simeon's Face
+CHAR_RON : Ron's Face
+CHAR_JIMMY : Jimmy's Face
+CHAR_LESTER : Lester's Shadowed Face
+CHAR_DAVE : Dave Norton's Face
+CHAR_LAMAR : Chop's Face
+CHAR_DEVIN : Devin Weston's Face
+CHAR_AMANDA : Amanda's Face
+CHAR_TRACEY : Tracey's Face
+CHAR_STRETCH : Stretch's Face
+CHAR_WADE : Wade's Face
+CHAR_MARTIN : Martin Madrazo's Face

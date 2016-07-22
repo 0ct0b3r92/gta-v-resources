@@ -1,0 +1,89 @@
+Thanks to Fireboyd78
+
+---------------------------
+
+You can use GAMEPLAY::GET_PROFILE_SETTING to get the value, and STATS::_0x68F01422BE1D838F to set the value. I take no responsibility for anything you break!
+
+There's more profile settings that are currently unknown.
+
+---------------------------
+
+<stat Name="_PROFILE_SETTING_0"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="0"    Comment="TARGETING_MODE - 0" />
+<stat Name="_PROFILE_SETTING_1"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="1"    Comment="AXIS_INVERSION - 1" />
+<stat Name="_PROFILE_SETTING_2"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="2"    Comment="CONTROLLER_VIBRATION - 2" />
+<stat Name="_PROFILE_SETTING_3"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="3"    Comment="CONTROLLER_SENSITIVITY - 3" />
+<stat Name="_PROFILE_SETTING_4"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="4"    Comment="CONTROLLER_SNIPER_INVERT_UNUSED - 4" />
+<stat Name="_PROFILE_SETTING_5"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="5"    Comment="CONTROLLER_SIXAXIS_HELI - 5" />
+<stat Name="_PROFILE_SETTING_6"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="6"    Comment="CONTROLLER_SIXAXIS_BIKE - 6" />
+<stat Name="_PROFILE_SETTING_7"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="7"    Comment="CONTROLLER_SIXAXIS_BOAT - 7" />
+<stat Name="_PROFILE_SETTING_8"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="8"    Comment="CONTROLLER_SIXAXIS_RELOAD - 8" />
+<stat Name="_PROFILE_SETTING_9"      Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="9"    Comment="CONTROLLER_SIXAXIS_MISSION - 9" />
+<stat Name="_PROFILE_SETTING_10"     Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="10"   Comment="CONTROLLER_SIXAXIS_ACTIVITY - 10" />
+<stat Name="_PROFILE_SETTING_11"     Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="11"   Comment="CONTROLLER_SIXAXIS_AFTERTOUCH - 11" />
+<stat Name="_PROFILE_SETTING_12"     Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="12"   Comment="CONTROLLER_CONTROL_CONFIG - 12" />
+<stat Name="_PROFILE_SETTING_13"     Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="13"   Comment="CONTROLLER_AIM_SENSITIVITY - 13" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_100"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="100"  Comment="VOICE_THRU_SPEAKERS - 100" />
+<stat Name="_PROFILE_SETTING_101"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="101"  Comment="VOICE_MUTED - 101" />
+<stat Name="_PROFILE_SETTING_102"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="102"  Comment="VOICE_VOLUME - 102" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_203"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="203"  Comment="DISPLAY_SUBTITLES - 203" />
+<stat Name="_PROFILE_SETTING_204"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="204"  Comment="DISPLAY_RADAR_MODE - 204" />
+<stat Name="_PROFILE_SETTING_205"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="205"  Comment="DISPLAY_HUD_MODE - 205" />
+<stat Name="_PROFILE_SETTING_206"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="206"  Comment="DISPLAY_LANGUAGE - 206" />
+<stat Name="_PROFILE_SETTING_207"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="207"  Comment="DISPLAY_GPS - 207" />
+<stat Name="_PROFILE_SETTING_208"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="208"  Comment="DISPLAY_AUTOSAVE_MODE - 208" />
+<stat Name="_PROFILE_SETTING_209"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="209"  Comment="DISPLAY_HANDBRAKE_CAM - 209" />
+<stat Name="_PROFILE_SETTING_210"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="210"  Comment="LEGACY_DO_NOT_USE_DISPLAY_GAMMA - 210" />
+<stat Name="_PROFILE_SETTING_211"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="211"  Comment="CONTROLLER_CINEMATIC_SHOOTING - 211" />
+<stat Name="_PROFILE_SETTING_212"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="212"  Comment="DISPLAY_SAFEZONE_SIZE - 212" />
+<stat Name="_PROFILE_SETTING_213"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="213"  Comment="DISPLAY_GAMMA - 213" />
+<stat Name="_PROFILE_SETTING_214"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="214"  Comment="DISPLAY_LEGACY_UNUSED1 - 214" />
+<stat Name="_PROFILE_SETTING_215"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="215"  Comment="DISPLAY_LEGACY_UNUSED2 - 215" />
+<stat Name="_PROFILE_SETTING_216"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="216"  Comment="DISPLAY_LEGACY_UNUSED3 - 216" />
+<stat Name="_PROFILE_SETTING_217"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="217"  Comment="DISPLAY_LEGACY_UNUSED4 - 217" />
+<stat Name="_PROFILE_SETTING_218"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="218"  Comment="DISPLAY_LEGACY_UNUSED5 - 218" />
+<stat Name="_PROFILE_SETTING_219"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="219"  Comment="DISPLAY_LEGACY_UNUSED6 - 219" />
+<stat Name="_PROFILE_SETTING_220"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="220"  Comment="DISPLAY_CAMERA_HEIGHT - 220" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_300"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="300"  Comment="AUDIO_SFX_LEVEL - 300" />
+<stat Name="_PROFILE_SETTING_301"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="301"  Comment="AUDIO_MUSIC_LEVEL - 301" />
+<stat Name="_PROFILE_SETTING_302"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="302"  Comment="AUDIO_VOICE_OUTPUT - 302" />
+<stat Name="_PROFILE_SETTING_303"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="303"  Comment="AUDIO_GPS_SPEECH - 303" />
+<stat Name="_PROFILE_SETTING_304"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="304"  Comment="AUDIO_HIGH_DYNAMIC_RANGE - 304" />
+<stat Name="_PROFILE_SETTING_305"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="305"  Comment="AUDIO_SPEAKER_OUTPUT - 305" />
+<stat Name="_PROFILE_SETTING_306"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="306"  Comment="AUDIO_MUSIC_LEVEL_IN_MP - 306" />
+<stat Name="_PROFILE_SETTING_307"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="307"  Comment="AUDIO_INTERACTIVE_MUSIC - 307" />
+<stat Name="_PROFILE_SETTING_308"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="308"  Comment="AUDIO_DIALOGUE_BOOST - 308" />
+<stat Name="_PROFILE_SETTING_309"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="309"  Comment="AUDIO_VOICE_SPEAKERS - 309" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_412"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="412"  Comment="DISPLAY_RETICULE - 412" />
+<stat Name="_PROFILE_SETTING_413"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="413"  Comment="CONTROLLER_CONFIG - 413" />
+<stat Name="_PROFILE_SETTING_414"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="414"  Comment="DISPLAY_FLICKER_FILTER - 414" />
+<stat Name="_PROFILE_SETTING_450"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="450"  Comment="NUM_SINGLEPLAYER_GAMES_STARTED - 450" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_500"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="500"  Comment="DLC_LOADED - 500" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_600"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="600"  Comment="AMBISONIC_DECODER - 600" />
+<stat Name="_PROFILE_SETTING_677"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="677"  Comment="AMBISONIC_DECODER_END - 677" />
+<stat Name="_PROFILE_SETTING_678"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="678"  Comment="AMBISONIC_DECODER_TYPE - 678" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_700"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="700"  Comment="PC_GRAPHICS_LEVEL - 700" />
+<stat Name="_PROFILE_SETTING_701"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="701"  Comment="PC_SYSTEM_LEVEL - 701" />
+<stat Name="_PROFILE_SETTING_702"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="702"  Comment="PC_AUDIO_LEVEL - 702" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_800"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="800"  Comment="FEED_PHONE - 800" />
+<stat Name="_PROFILE_SETTING_801"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="801"  Comment="FEED_STATS - 801" />
+<stat Name="_PROFILE_SETTING_802"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="802"  Comment="FEED_CREW - 802" />
+<stat Name="_PROFILE_SETTING_803"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="803"  Comment="FEED_FRIENDS - 803" />
+<stat Name="_PROFILE_SETTING_804"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="804"  Comment="FEED_SOCIAL - 804" />
+<stat Name="_PROFILE_SETTING_805"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="805"  Comment="FEED_STORE - 805" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_900"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="900"  Comment="FACEBOOK_UPDATES - 900" />
+<!-- -->
+<stat Name="_PROFILE_SETTING_230"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="230"  Comment="FPS_PERSISTANT_VIEW - 230" />
+<stat Name="_PROFILE_SETTING_231"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="231"  Comment="FPS_FIELD_OF_VIEW - 231" />
+<stat Name="_PROFILE_SETTING_232"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="232"  Comment="FPS_LOOK_SENSITIVITY - 232" />
+<stat Name="_PROFILE_SETTING_233"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="233"  Comment="FPS_AIM_SENSITIVITY - 233" />
+<stat Name="_PROFILE_SETTING_234"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="234"  Comment="FPS_RAGDOLL - 234" />
+<stat Name="_PROFILE_SETTING_235"    Type="profilesetting"  profile="true"  FlushPriority="15"  ProfileSettingId="234"  Comment="FPS_COMBATROLL - 235" />
