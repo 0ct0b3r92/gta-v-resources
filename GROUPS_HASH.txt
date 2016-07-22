@@ -1,3 +1,11 @@
+All credit goes to Unknown_Modder for retrieving these.
+http://gtaforums.com/user/996266-unknown-modder/
+
+See ISOFX's post for more hashes.
+http://gtaforums.com/topic/803234-ultimate-modding-thread/?hl=gta5-mystery-busters
+
+------------------------------
+
 void SET_PED_RELATIONSHIP_GROUP_HASH(Ped ped, Hash hash)
 
 void SET_RELATIONSHIP_BETWEEN_GROUPS(int relationship, Hash group1, Hash group2)

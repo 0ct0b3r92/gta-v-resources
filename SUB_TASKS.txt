@@ -1,4 +1,7 @@
 Research by Eddlm
+http://gtaforums.com/topic/854145-ped-subtasks-knowing-if-a-ped-is-doing-something-specific/
+
+-------------------------------------
 
 public enum Subtask
 {
